@@ -2,7 +2,8 @@
 Python OOP Bank System with JSON
 
 ## Features
-- Create Account, Deposit, Withdraw
+- Create new account
+- Deposit & Withdraw money
 - Check persists in JSON
 
 ## Run
