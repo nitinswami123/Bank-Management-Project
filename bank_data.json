@@ -1,0 +1,105 @@
+{
+    "accounts": {
+        "1001": {
+            "name": "Nitin",
+            "acc_no": 1001,
+            "pin": "1111",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1002": {
+            "name": "Himanshi",
+            "acc_no": 1002,
+            "pin": "2222",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1003": {
+            "name": "Nitin",
+            "acc_no": 1003,
+            "pin": "1111",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1004": {
+            "name": "Himanshi",
+            "acc_no": 1004,
+            "pin": "2222",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1005": {
+            "name": "Nitin",
+            "acc_no": 1005,
+            "pin": "1111",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1006": {
+            "name": "Himanshi",
+            "acc_no": 1006,
+            "pin": "2222",
+            "balance": 0,
+            "transaction": [
+                "Account created with balance $0"
+            ]
+        },
+        "1007": {
+            "name": "Nitin",
+            "acc_no": 1007,
+            "pin": "1111",
+            "balance": 7000,
+            "transaction": [
+                "Account created with balance $0",
+                "Deposited: $10000",
+                "withdrawn: $3000",
+                "Transferred: $3000 to Acc 1008"
+            ]
+        },
+        "1008": {
+            "name": "Himanshi",
+            "acc_no": 1008,
+            "pin": "2222",
+            "balance": 3000,
+            "transaction": [
+                "Account created with balance $0",
+                "Deposited: $3000",
+                "Received: $3000 from Acc 1007"
+            ]
+        },
+        "1009": {
+            "name": "Nitin",
+            "acc_no": 1009,
+            "pin": "1111",
+            "balance": 7000,
+            "transaction": [
+                "Account created with balance $0",
+                "Deposited: $10000",
+                "withdrawn: $3000",
+                "Transferred: $3000 to Acc 1010"
+            ]
+        },
+        "1010": {
+            "name": "Himanshi",
+            "acc_no": 1010,
+            "pin": "2222",
+            "balance": 3000,
+            "transaction": [
+                "Account created with balance $0",
+                "Deposited: $3000",
+                "Received: $3000 from Acc 1009"
+            ]
+        }
+    },
+    "next_acc_no": 1011
+}
